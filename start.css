@@ -1,0 +1,112 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.block {
+    background-color: #101204;
+    width: 272px;
+    height: 130px;
+    border-radius: 12px;
+    color: white;
+}
+.texts {
+    padding: 1px, 4px, 1px, 4px;
+    width: 256px;
+    height:  36px;
+    background-color: #22272B;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    margin-left: 4px;
+}
+
+.home {
+    width: 272px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+
+    margin-right: 8px;
+}
+
+.go{
+    position: relative;
+    margin-left: 17px;
+}
+
+.join {
+    display: flex;
+    align-items: center;
+    margin-left: 12px;
+}
+
+.button {
+    margin-left: 148px;
+}
+
+.card {
+    position: absolute;
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.plus {
+    margin-left: 8px;
+}
+
+
+.container {
+    display: flex;
+    gap: 12px;
+    margin-top: ;
+    background-color: #CD5A91;
+    padding: 50px;
+}
+
+.goes {
+    position: absolute;
+    margin-left: 15px;
+}
+
+.buttons {
+    margin-left: 228px;
+}
+
+.homes {
+    background-color: #101204;
+    color: white;
+    width: 272px;
+    height: 93px;
+    border-radius: 12px;
+}
+
+.goess{
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 14px;
+}
+
+.buttonss {
+    position: absolute;
+    margin-top: 9px;  
+    margin-left: 230px;
+}
+
+.pluses {
+    position: absolute;
+    margin-top: 61px;
+    margin-left: 8px;
+}
+
+.red {
+    margin-top: 55px;
+    margin-left: 230px;
+}
+.container
