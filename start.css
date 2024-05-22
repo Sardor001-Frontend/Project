@@ -109,4 +109,15 @@
     margin-top: 55px;
     margin-left: 230px;
 }
-.container
+.colon {
+    width: 272px;
+    height: 48px;
+    background-color: #FFFFFF3D;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding-left: 12px;
+}
